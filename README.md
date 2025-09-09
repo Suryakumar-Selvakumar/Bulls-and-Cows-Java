@@ -1,8 +1,6 @@
 # Bulls and Cows
 
-This project is an implementation of the classic logical deduction game Bulls and Cows. The game challenges a player to
-guess a secret code composed of unique symbols. After each guess, the program provides feedback in the form of "bulls"
-(correct symbols in the correct position) and "cows" (correct symbols in the wrong position).
+This project is an implementation of the classic logical deduction game Bulls and Cows. The game challenges a player to guess a secret code composed of unique symbols. After each guess, the program provides feedback in the form of "bulls" (correct symbols in the correct position) and "cows" (correct symbols in the wrong position).
 
 The project was built in incremental stages, gradually adding features to create a fully playable, robust game.
 
@@ -33,7 +31,7 @@ The project was built in incremental stages, gradually adding features to create
 
 ## Demo
 
-<video width="1920" height="1080" align="center" src=""></video>
+<video width="1920" height="1080" align="center" src="https://github.com/user-attachments/assets/e396fdd3-33fb-458b-8072-264ddda69569"></video>
 
 ## Takeaway
 
